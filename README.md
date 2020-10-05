@@ -1,8 +1,5 @@
 # Note Taking App
- An App created in a U of O bootcamp class. This app was teaching us about using express and some other cool dependencies/technologies.
-
- ## About the App
- This App allows you to write and save notes inside the note tacker app. You are also able to save your notes and delete the notes by clicking the garbage icon!
+ An App for note taking (crazy right?)
 
  ## Built With / Technologies Used:
 * HTML
@@ -16,7 +13,7 @@
 ## How to Run:
 * Clone Repo from my gitHub in your Terminal:
 
-`git clone https://github.com/ianbenjohn/noteTaker`
+`git clone https://github.com/cruznt/Express-HW`
 
 * Switch to the correct directory (folder) in your Terminal:
 
@@ -33,7 +30,3 @@
 * Go to your localHost:
 
 `http://localhost:300`
-
-* Start writing so many notes that you can't see any longer
-
-## Have fun
